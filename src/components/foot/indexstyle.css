@@ -1,0 +1,28 @@
+.foot{
+    width: 100%;
+    height: 4rem;
+    background: #000;
+}
+.le_foot_left{
+    width: 5    .6875rem;
+    height: 4rem;
+    float: left;
+}
+.p1{
+    width: 2rem;
+    height: 2rem;
+    padding-left: 6.8rem;
+    padding-top: 1rem;
+}
+.p2{
+    width: 2rem;
+    height: 2rem;
+    padding-left: 3rem;
+    padding-top: 1rem;
+}
+.p3{
+    width: 2rem;
+    height: 2rem;
+    padding-left: 3rem;
+    padding-top: 1rem;
+}
